@@ -20,9 +20,10 @@
 <br/>
 
 # Snaps
-![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/fb4def22-1d8d-4977-8866-a2ca57b96cc3)
+<img width="948" height="718" alt="brave_screenshot_localhost" src="https://github.com/user-attachments/assets/ee865d3b-b0f4-4c22-89a2-fc2dab708342" />
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/3d1a5979-78d6-4de4-9c81-51a0055183e6)
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/a2018010-38ef-4f84-bf0c-a7ce25e3241b)
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/133651f4-872a-486c-9732-62480a7a96ad)
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/4e20851d-2045-4617-84b5-f318a6a34571)
 ![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/a348821a-0a7c-4bbc-9675-e37b79a8ec4e)
+<img width="200" height="125" alt="download (2)" src="https://github.com/user-attachments/assets/e7a00835-a927-456a-a4b6-3912cc9c45ae" />
