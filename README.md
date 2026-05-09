@@ -1,3 +1,4 @@
+<img width="200" height="125" alt="download (2)" src="https://github.com/user-attachments/assets/e7a00835-a927-456a-a4b6-3912cc9c45ae" />
 # Weather_Forcaster
 - A Weather forecast web app made with python and streamlit.
 - In this project I use the pyowm module to fetch the weather data from the Openweathermap using APIs.
