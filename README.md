@@ -1,4 +1,3 @@
-<img width="200" height="125" alt="download (2)" src="https://github.com/user-attachments/assets/e7a00835-a927-456a-a4b6-3912cc9c45ae" />
 # Weather_Forcaster
 - A Weather forecast web app made with python and streamlit.
 - In this project I use the pyowm module to fetch the weather data from the Openweathermap using APIs.
@@ -21,9 +20,8 @@
 
 # Snaps
 <img width="948" height="718" alt="brave_screenshot_localhost" src="https://github.com/user-attachments/assets/ee865d3b-b0f4-4c22-89a2-fc2dab708342" />
-![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/3d1a5979-78d6-4de4-9c81-51a0055183e6)
-![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/a2018010-38ef-4f84-bf0c-a7ce25e3241b)
-![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/133651f4-872a-486c-9732-62480a7a96ad)
-![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/4e20851d-2045-4617-84b5-f318a6a34571)
-![image](https://github.com/das88768/Weather_Forecaster_streamlit/assets/89207002/a348821a-0a7c-4bbc-9675-e37b79a8ec4e)
+<img width="935" height="647" alt="brave_screenshot_localhost (1)" src="https://github.com/user-attachments/assets/b6ed3fa5-74eb-4f2e-b4d5-3544491d9a26" />
+<img width="948" height="832" alt="brave_screenshot_localhost (2)" src="https://github.com/user-attachments/assets/eba578b4-f52d-4a69-bb8d-e681bd5897e8" />
+<img width="945" height="648" alt="brave_screenshot_localhost (3)" src="https://github.com/user-attachments/assets/87fc003e-7413-4ef0-a9b2-fd6e49b72770" />
+<img width="911" height="812" alt="brave_screenshot_localhost (4)" src="https://github.com/user-attachments/assets/5890635c-08ce-4edc-b166-e7b345e7d01a" />
 <img width="200" height="125" alt="download (2)" src="https://github.com/user-attachments/assets/e7a00835-a927-456a-a4b6-3912cc9c45ae" />
